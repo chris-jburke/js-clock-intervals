@@ -31,5 +31,5 @@ timer = setInterval(function() {
 	hourDegrees += (0.1/ 12);
 
 
-}, 10);
+}, 1000);
 
